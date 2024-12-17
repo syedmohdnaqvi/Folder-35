@@ -1,0 +1,607 @@
+.container{
+    width: 100%;
+    height: 120px;
+    display: flex;
+}
+.imgone{
+    width: 100px;
+    height: 80px;
+    margin-left: 50px;
+}
+
+p{
+    margin-left: 40px;
+    font-weight: bold;
+}
+
+.containertwo{
+    height: 120px;
+    width: 250px;
+    margin-left:200px;
+}
+
+.linkone{
+    margin-left: 70px;
+
+}
+
+.headingone{
+    font-weight:bold;
+}
+
+.phonenumber{
+    font-weight: bold;
+    margin-left: 70px;
+}
+
+.containerthree{
+    height: 140px;
+    width: 270px;
+    margin-left: 270px;
+}
+
+.headingthree{
+    font-weight: bold;
+    margin-left: 115px;
+}
+
+.headingfour{
+    font-weight: bold;
+}
+
+.containerfive{
+    width: 100%;
+    height: 450px;
+    display: flex;
+}
+
+.containersix{
+    width: 70%;
+    height: 430px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.containerseven{
+    width: 30%;
+    height: 430px;
+    margin-top: 10px;
+}
+
+.box{
+    height: 200px;
+    width: 440px;
+    border: 2px solid black;
+    margin-left: 40px;   
+}
+
+.boxonetwo{
+    height: 215px;
+    width: 100%;
+    display: flex;
+    gap: 40px;
+}
+
+.boxthreefour{
+    height: 215px;
+    width: 100%;
+    display: flex;
+    gap: 40px;
+}
+
+.spanone{
+    margin-left: -20px;
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    font-weight: bold;
+    display: inline;
+}
+
+.boxoneinfo{
+    padding: 0;
+    margin: 0;
+    font-weight: 100;
+    margin-top:-48px;
+    margin-left: 5px;
+}
+
+.boxtwoinfo{
+    padding: 0;
+    margin: 0;
+    font-weight: 100;
+    margin-top:-52px;
+    margin-left: 5px;
+}
+
+.boxthreeinfo{
+    padding: 0;
+    margin: 0;
+    font-weight: 100;
+    margin-top:-42px;
+    margin-left: 5px;
+}
+
+.boxfourinfo{
+    padding: 0;
+    margin: 0;
+    font-weight: 100;
+    margin-top:-74px;
+    margin-left: 5px;
+}
+
+.containerseven{
+    height: 200px;
+    width: 100%;
+    display: flex;
+}
+
+.salesorderone{
+    height: 200px;
+    width: 50%;
+}
+
+.salesordertwo{
+    height: 180px;
+    width: 70%;
+    font-weight: 100;
+}
+
+table{
+    height: 80px;
+    width: 70%;
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin-left: 30px;
+}
+
+th,td{
+    border: 2px solid black;
+    text-align: center;
+}
+
+.containereight{
+    width: 95%;
+    height: 240px;
+    border: 2px solid black;
+}
+
+.containernine{
+    height: 120px;
+    width: 100%;
+    display: flex;
+}
+
+.containerten{
+    height: 120px;
+    width: 100%;
+    display: flex;
+}
+
+.lineitem{
+    height: 120px;
+    width: 5%;
+    border: 2px solid black;
+}
+
+.ordered{
+    height: 120px;
+    width: 10%;
+    border: 2px solid black;
+}
+
+.cancelled{
+    height: 120px;
+    width: 10%;
+    border: 2px solid black;
+}
+
+.shipped{
+    height: 120px;
+    width: 10%;
+    border: 2px solid black;
+}
+
+.Itemnumberdescription{
+    height: 120px;
+    width: 45%;
+    border: 2px solid black;
+}
+
+.unitpriceusd{
+    height: 120px;
+    width: 10%;
+    border: 2px solid black;
+}
+
+.amountusd{
+    height: 120px;
+    width: 10%;
+    border: 2px solid black;
+}
+
+.lineitempara{
+    margin: 0;
+    padding: 0;
+    margin-top: 50px;
+}
+
+.orderedpara{
+    margin: 0;
+    padding: 0;
+    margin-top: 50px;
+    margin-left: 40px;
+   
+}
+
+.cancelledpara{
+    margin: 0;
+    padding: 0;
+    margin-top: 50px;
+    margin-left:40px;
+}
+
+.shippedpara{
+    margin: 0;
+    padding: 0;
+    margin-top: 50px;
+    margin-left:40px;
+}
+
+.itemnumberdescriptionpara{
+    margin: 0;
+    padding: 0;
+    margin-top: 50px;
+    margin-left:220px;
+}
+
+.unitpriceusdpara{
+    margin: 0;
+    padding: 0;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.amountusdpara{
+    margin: 0;
+    padding: 0;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.lineitemparalower{
+    margin-left: 25px;
+}
+
+.orderedparalower{
+    margin-left: 60px;
+}
+
+.cancelledparalower{
+    margin-left: 60px;
+}
+
+.shippedparalower{
+    margin-left: 60px;
+}
+
+.Itemnumberdescription{
+    display: flex;
+}
+
+.leftdiv{
+    height: 120px;
+    width: 33%;
+}
+
+.middlediv{
+    height: 120px;
+    width: 33%;
+}
+
+.rightdiv{
+    height: 120px;
+    width: 33%;
+}
+
+.leftdivpara{
+    margin: 0;
+    padding:0;
+    font-weight: 100;
+}
+
+.middledivpara{
+    font-weight: 100;
+    margin-top: 50px;
+}
+
+.rightdivpara{
+    font-weight: 100;
+}
+
+.rightdivparalower{
+    margin-bottom: -60px;
+    font-weight: 100;
+}
+
+.unitpriceusdparalower{
+    font-weight: 100;
+}
+
+.amountusdparalower{
+    font-weight: 100;
+}
+
+.containereleven{
+    height: 220px;
+    width: 30%;
+    margin-left: 60%;
+    display: flex;
+}
+
+.containersalesamount{
+    height: 220px;
+    width: 80%;
+}
+
+.containersalesprice{
+    height: 220px;
+    width: 20%;
+}
+
+.salesamountpara{
+    font-weight: 100;
+}
+
+.salespricepara{
+    font-weight: 100;
+}
+
+.containertwelve{
+    width: 80%;
+    height: 220px;
+    border:2px solid black;
+    margin-left: 10%;
+}
+
+.paraoneterms{
+    font-weight: 100;
+}
+
+.paratwoterms{
+    font-weight: 100;
+}
+
+.parathreeterms{
+    font-weight: 100;
+}
+
+.containerthirteen{
+    width:85%;
+    height: 100px;
+    margin-left: 5%;
+}
+
+.upperthirteen{
+    width: 100%;
+    height: 50px;
+    border: 2px solid black;
+    display: flex;   
+}
+
+.lowerthirteen{
+    width: 100%;
+    height: 50px;
+    border: 2px solid black;
+    display: flex;
+}
+
+.upperfirst{
+    width: 5%;
+    height: 50px;
+    border: 2px solid black;
+}
+
+.uppersecond{
+    width: 10%;
+    height: 50px;
+    border: 2px solid black;
+}
+
+.upperthird{
+    width: 20%;
+    height: 50px;
+    border: 2px solid black;
+}
+
+.upperfourth{
+    width: 20%;
+    height: 50px;
+    border: 2px solid black;
+}
+
+.upperfifth{
+    width: 5%;
+    height: 50px;
+    border: 2px solid black;
+}
+
+.uppersixth{
+    width: 30%;
+    height: 50px;
+    border: 2px solid black;
+}
+
+.upperseventh{
+    width: 10%;
+    height: 50px;
+    border: 2px solid black;
+}
+
+.lowerfirst{
+    width: 5%;
+    height: 50px;
+    border: 2px solid black;
+}
+
+.lowersecond{
+    width: 10%;
+    height: 50px;
+    border: 2px solid black;
+}
+
+.lowerthird{
+    width: 20%;
+    height: 50px;
+    border: 2px solid black;
+}
+
+.lowerfourth{
+    width: 20%;
+    height: 50px;
+    border: 2px solid black;
+}
+
+.lowerfifth{
+    width: 5%;
+    height: 50px;
+    border: 2px solid black;
+}
+
+.lowersixth{
+    width: 30%;
+    height: 50px;
+    border: 2px solid black;
+}
+
+.lowerseventh{
+    width: 10%;
+    height: 50px;
+    border: 2px solid black;
+}
+
+.upperfirstpara{
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.uppersecondpara{
+    margin: 0;
+    padding: 0;
+    margin-left: 20px;
+    margin-top: 13px;
+}
+
+.upperthirdpara{
+    margin-left: 85px;
+}
+
+.upperfourthpara{
+    margin-left: 100px;
+}
+
+.upperfifthpara{
+    margin: 0;
+    padding: 0;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.uppersixthpara{
+    margin-left: 170px;
+}
+
+.upperseventhpara{
+    margin-right: 50px;
+}
+
+.lowerfirstpara{
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.lowersecondpara{
+    margin: 0;
+    padding: 0;
+    margin-left: 20px;
+    margin-top: 13px;
+}
+
+.lowerthirdpara{
+    margin-left: 85px;
+}
+
+.lowerfourthpara{
+    margin-left: 70px;
+}
+
+.lowerfifthpara{
+    margin: 0;
+    padding: 0;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.lowersixthpara{
+    margin-left: 120px;
+}
+
+.lowerseventhpara{
+    margin-left: 60px;
+}
+
+.weborder{
+    margin-left: 160px;
+    font-weight: 100;
+
+}
+
+.weborderdate{
+    margin-left: 230px;
+    font-weight: 100;
+}
+
+.textone{
+    text-align: center;
+    font-weight: 100;
+}
+
+.shipnumber{
+    font-weight: 100;
+}
+
+.certificatehead{
+    font-weight: 100;
+
+}
+
+.certificatedetails{
+    font-weight: 100;
+    text-align: justify;
+}
+
+.signature{
+    margin-left: 50px;
+}
+
+.designation{
+    font-weight: 100;
+    margin-left: 50px;
+}
+
+.lastdetails{
+    text-align: center;
+    font-weight: 100;
+}
+
+.finaldetails{
+    text-align: center;
+}
+
+.lastline{
+    font-weight: 100;
+    text-align: center;
+}
